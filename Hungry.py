@@ -3,4 +3,4 @@ if hungry=="yes":
     print("Eat samosa")
 else:
 print ("Not Hungry")
-closesS
+close
