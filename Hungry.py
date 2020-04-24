@@ -4,3 +4,9 @@ if hungry=="yes":
 else:
 print ("Not Hungry")
 closed
+
+"Branching concepts"
+While(hungry!=yes)
+{
+    Print("OK, NP")
+}
